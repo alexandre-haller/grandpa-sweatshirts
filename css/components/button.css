@@ -1,0 +1,8 @@
+.buy-btn{
+	background-color: rgb(133, 108, 76);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: rgb(255, 242, 225);
+	font-weight: lighter;
+	font-size: 30px;
+}

@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Maiden+Orange&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+@import url("https://kit.fontawesome.com/ed0fd122c2.js")
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+
+body{
+	background-color: rgb(255, 242, 225);
+	font-family: "Maiden Orange", serif;
+	color: rgb(133, 108, 76);
+}
+
+h1{
+	font-family: "Monoton", sans-serif;
+	font-weight: lighter;
+}
+
+h2{
+	font-family: "Maiden Orange", serif;
+	color: rgb(133, 108, 76);
+}
+
+a{
+	text-decoration: none;
+	font-family: "Maiden Orange", serif;
+	color: rgb(133, 108, 76);
+}
+
